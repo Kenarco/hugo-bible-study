@@ -1,0 +1,9 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Hugo Bible Study'
+theme = 'color-your-world'
+
+[params.notFound]
+  title       = "Page not Found"
+  description  = "This page was not found"
+  paragraph    = "Nothing to sere here, buddy"
