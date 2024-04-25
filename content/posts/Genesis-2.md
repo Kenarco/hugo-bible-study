@@ -2,6 +2,7 @@
 title = 'Genesis 2'
 date = 2024-04-22T06:25:33+08:00
 draft = false
+tags = ['Genesis','man','woman']
 +++
 ## The Creation of the Man and Woman
 

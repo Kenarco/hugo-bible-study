@@ -1,9 +1,22 @@
 baseURL = ''
 languageCode = 'en-us'
 title = 'Hugo Bible Study'
-theme = 'm10c'
+theme = ['PaperMod']
 
-# [params.notFound]
-#   title       = "Page not Found"
-  # description  = "This page was not found"
-  # paragraph    = "Nothing to sere here, buddy"
+paginate = 10
+
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 5
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20

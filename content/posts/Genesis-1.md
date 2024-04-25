@@ -1,7 +1,7 @@
 +++
 title = 'Genesis 1'
 date = 2024-04-21T15:01:30+08:00
-draft = false
+tags = ['Genesis','creation']
 +++
 
 ## The Creatiom
