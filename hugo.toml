@@ -1,7 +1,7 @@
 baseURL = ''
 languageCode = 'en-us'
 title = 'Hugo Bible Study'
-theme = ['PaperMod']
+theme = ['hugo-coder']
 
 paginate = 10
 
